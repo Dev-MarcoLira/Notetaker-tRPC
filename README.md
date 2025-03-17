@@ -8,4 +8,4 @@ Deploy was not implemented yet, but is going to be made through Vercel.
 
 ## Notetaker
 
-The name of the "project" (notetaker) was inspired in a tutorial video in Youtube, from Jack Herrington. I apreciate his idea!
+The name of the "project" (notetaker) was inspired in a tutorial video in Youtube, from Jack Herrington. I appreciate his idea!
