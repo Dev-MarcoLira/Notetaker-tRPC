@@ -17,7 +17,7 @@ export const topicRouter = createTRPCRouter({
 
     create: protectedProcedure
         .input(z.object({ title: z.string() }))
-        .mutation(({ ctx, input }) =>{
+        .mutation (({ ctx, input }) =>{
             return ctx.db.topic.create({
                 data: {
                     title: input.title,
